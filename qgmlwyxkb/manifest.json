@@ -13,21 +13,21 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 {
-  "name": "qg",
+  "name": "qgmlwy",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "qg keyboard",
+  "description": "qgmlwy keyboard",
   "permissions": [
     "input"
   ],
   "input_components": [
     {
-      "name": "qg",
+      "name": "qgmlwy",
       "type": "ime",
-      "id": "xkb:us:qg:eng",
-      "description": "qg keyboard",  // user visible description
+      "id": "qgmlwy_xkb",
+      "description": "qgmlwy keyboard",  // user visible description
       "language": "en-US",  // The primary language this IME is used for
-      "layouts": ["us(qg)"]
+      "layouts": ["us(qgmlwy)"]
     }
   ]
 }
