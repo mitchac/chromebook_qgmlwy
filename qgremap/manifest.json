@@ -26,16 +26,16 @@ limitations under the License.
   ],
   "input_components": [
     {
-      "name": "qg1",
+      "name": "qg2",
       "type": "ime",
-      "id": "xkb:us:intl:eng",
+      "id": "qg2",
       "description": "qg keyboard",  // user visible description
       "language": [
         "en",
         "en-US"
       ],
       "layouts": [
-        "us(intl)"
+        "us"
       ]
     }
   ]
