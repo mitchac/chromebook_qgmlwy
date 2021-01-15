@@ -14,10 +14,10 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 {
-  "name": "qg2",
+  "name": "qgmlwy",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "qg keyboard",
+  "description": "qgmlwy keyboard",
   "background": {
     "scripts": ["background.js"]
   },
@@ -26,17 +26,12 @@ limitations under the License.
   ],
   "input_components": [
     {
-      "name": "qg2",
+      "name": "qgmlwy",
       "type": "ime",
-      "id": "qg2",
-      "description": "qg keyboard",  // user visible description
-      "language": [
-        "en",
-        "en-US"
-      ],
-      "layouts": [
-        "us"
-      ]
+      "id": "qgmlwy",
+      "description": "qgmlwy keyboard",  // user visible description
+      "language": "en-US",
+      "layouts": ["us"]
     }
   ]
 }
